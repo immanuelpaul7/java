@@ -28,8 +28,14 @@ public class AppTest {
     public void testFailed() {
         Assert.assertFalse(false);
     }
+    
         @Test
     public void testRegression() {
+        Assert.assertFalse(false);       
+    }
+    
+    @Test
+    public void testRegression2() {
         Assert.assertFalse(false);       
     }
 }
