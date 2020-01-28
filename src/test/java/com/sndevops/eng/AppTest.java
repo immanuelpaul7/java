@@ -34,9 +34,5 @@ public class AppTest {
         Assert.assertFalse(false);       
     }
 
-    @Test
-    public void testRegression1() {
-        Assert.assertFalse(false);       
-    }
 }
 
